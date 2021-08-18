@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjal6314" alt="pranjal6314" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/pranjal choudhary" target="blank"><img src="https://img.shields.io/twitter/follow/pranjal choudhary?logo=twitter&style=for-the-badge" alt="pranjal choudhary" /></a> </p>
-<img align="right" alt="Coding" width="300" height="100" src="https://source.unsplash.com/720x600/?bloging,codding">
+<img align="right" alt="Coding" width="300" height="300" src="https://media.giphy.com/media/ndIq5ohg1pyfqyVOII/giphy.gif">
 
 - 🔭 I’m currently working on **I’m currently working on frontend**
 
