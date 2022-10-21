@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hey, I'm Pranjal 👋</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjal6314&label=Profile%20views&color=0e75b6&style=flat" alt="pranjal6314" /> </p>
 
@@ -9,9 +9,9 @@
 
 <img align="right" alt="Coding" width="300" height="300" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif">
 
-- 🔭 I’m currently working on **I’m currently working on frontend**
+- 🔭 I’m currently working on **I’m currently working on React**
 
-- 🌱 I’m currently learning **learning Java**
+- 🌱 I’m currently learning **learning Tailwind CSS**
 
 - 💬 Ask me about **VS-Code or any tech-related stuff.**
 
