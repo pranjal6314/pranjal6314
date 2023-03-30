@@ -1,5 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there+%2CI'm+Pranjal+Choudhary;I+learn+technical+stuffs.;You+can+c%C3%B8ntact+me+in+discord.;Hi+there%2C+You+can+call+me+Pranjal.;Hi+there%2C+I'm+3rd+year+CSE+student;Hi+there%2C+I+play+music+stuffs.)](https://github.com/pranal-choudhary/pranal-choudhary)
 
-<h1 align="center"> Hey, I'm Pranjal 👋</h1>
+
+## 💫 About Me
 <h3 align="center">A passionate MERN developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjal6314&label=Profile%20views&color=0e75b6&style=flat" alt="pranjal6314" /> </p>
