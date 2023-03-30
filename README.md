@@ -45,8 +45,10 @@
 <code><img height="30" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/04/mysql-workbench.png"></code>
 <br>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranjal6314&show_icons=true&locale=en&layout=compact" alt="pranjal6314" /></p>
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 
 
