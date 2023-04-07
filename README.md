@@ -52,4 +52,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
-<iframe> https://www.hackerrank.com/certificates/iframe/2472f26b4274</iframe>
