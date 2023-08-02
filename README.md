@@ -1,25 +1,21 @@
+
+![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there+%2CI'm+Pranjal+Choudhary;I+learn+technical+stuffs.;You+can+c%C3%B8ntact+me+in+discord.;Hi+there%2C+You+can+call+me+Pranjal.;Hi+there%2C+I'm+3rd+year+CSE+student;Hi+there%2C+I+play+music+stuffs.)](https://github.com/pranal-choudhary/pranal-choudhary)
 
 
 ## 💫 About Me
 <h3 align="center">A passionate MERN developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjal6314&label=Profile%20views&color=0e75b6&style=flat" alt="pranjal6314" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjal6314" alt="pranjal6314" /></a> </p>
+- 🔭 I’m currently working on **I’m currently working on Nextjs**
 
-
-<img align="right" alt="Coding" width="300" height="300" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif">
-
-- 🔭 I’m currently working on **I’m currently working on React**
-
-- 🌱 I’m currently learning **learning Tailwind CSS**
+- 🌱 I’m currently learning **learning DevOps **
 
 - 💬 Ask me about **VS-Code or any tech-related stuff.**
 
 - 📫 How to reach me **pranjalchoudhary270@gmail.com**
 
-- ⚡ Fun fact **I think i am funny**
 
 ## 🌐 Socials
 <p align="left">
@@ -46,6 +42,11 @@
 <br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranjal6314&show_icons=true&locale=en&layout=compact" alt="pranjal6314" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjal6314&label=Profile%20views&color=0e75b6&style=flat" alt="pranjal6314" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjal6314" alt="pranjal6314" /></a> </p>
 
 
 ### ✍️ Random Dev Quote
