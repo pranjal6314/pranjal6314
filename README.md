@@ -8,11 +8,9 @@
 <h3 align="center">A passionate MERN developer </h3>
 
 
-- 🔭 I’m currently working on **I’m currently working on Nextjs**
+- 🔭 I’m currently working on Nextjs**
 
-- 🌱 I’m currently learning **learning DevOps **
-
-- 💬 Ask me about **VS-Code or any tech-related stuff.**
+- 🌱 I’m currently **learning DevOps **
 
 - 📫 How to reach me **pranjalchoudhary270@gmail.com**
 
